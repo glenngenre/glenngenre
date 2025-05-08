@@ -13,7 +13,7 @@ I'm a passionate **Software Engineer** based in Quezon City, Philippines. I love
 
 ### 💻 My Projects
 
-Check out some of my work in the projects section of my [portfolio site](public/index.html)!
+Check out some of my work in the projects section of my [portfolio site](https://glenngenre.github.io/)!
 
 ---
 
@@ -22,6 +22,4 @@ Check out some of my work in the projects section of my [portfolio site](public/
 <div align="center">  
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenngenre&layout=compact&theme=dracula"/>  
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=glenngenre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  
 </div>
