@@ -20,6 +20,6 @@ Check out some of my work in the projects section of my [portfolio site](https:/
 > “If you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire.” – *Friedrich Nietzsche*
 
 <div align="center">  
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenngenre&layout=compact&theme=dracula"/>  
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=glenngenre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=glenngenre&layout=compact&langs_count=4&theme=gruvbox"/>  
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=glenngenre&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
